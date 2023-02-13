@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 💫 About Us:
+
+Our company is a firm dedicated to cutting-edge software development, with a team of technology experts and extensive experience in the industry. We focus on providing high-quality solutions that meet the requirements and expectations of our clients. We have a rigorous development process and a focus on innovation to ensure that the products we offer are efficient, user-friendly and meet the needs of our clients. Our goal is to help our clients improve their productivity and efficiency through high-quality software solutions.
+
 Nuestra compañía es una empresa dedicada al desarrollo de software de vanguardia, con un equipo de expertos en tecnología y una amplia experiencia en la industria. Nos enfocamos en proporcionar soluciones de alta calidad que cumplen con los requisitos y expectativas de nuestros clientes. Contamos con un proceso de desarrollo riguroso y un enfoque en la innovación para garantizar que los productos que ofrecemos sean eficientes, fáciles de usar y se ajusten a las necesidades de nuestros clientes. Nuestro objetivo es ayudar a nuestros clientes a mejorar su productividad y eficiencia a través de soluciones de software de alta calidad.
 
 
@@ -9,7 +12,7 @@ Nuestra compañía es una empresa dedicada al desarrollo de software de vanguard
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheTecHive&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTecHive&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
